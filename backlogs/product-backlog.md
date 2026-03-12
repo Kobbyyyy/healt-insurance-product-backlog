@@ -26,15 +26,6 @@ permalink: /backlogs/product-backlog/
 
 ---
 
-## What's Been Accomplished:
-
-- All stories have unique IDs 
-- All stories follow "As a... I want... so that..." format
-- Stories are force-ranked by priority (10 → 1)
-- Stories are appropriately sized (1-6 points)
-- Team capacity documented (24 SP for Sprint 4)
-- **Top 9 stories (24 points) moved to Sprint 4 Backlog**
-- Remaining 10 stories ready for future sprints
 
 ---
 
