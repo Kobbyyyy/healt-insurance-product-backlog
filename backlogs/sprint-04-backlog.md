@@ -75,18 +75,6 @@ For a story to be considered "Done" in Sprint 4:
 
 ---
 
-## 📅Sprint Schedule
-
-| **Event** | **Date/Time** | **Facilitator** |
-|-----------|---------------|-----------------|
-| Sprint Planning | March 12, 10:00 AM | Fernando |
-| Daily Stand-up | Daily, 9:30 AM | Fernando |
-| Code Review Session | March 16, 2:00 PM | Team |
-| Mid-Sprint Check-in | March 19, 10:00 AM | Fernando |
-| Sprint Review | March 26, 10:00 AM | Nana |
-| Sprint Retrospective | March 26, 11:00 AM | Fernando |
-
----
 
 ## Risks and Dependencies
 
@@ -100,30 +88,21 @@ For a story to be considered "Done" in Sprint 4:
 ---
 
 
-## 🎯 Sprint 4 Success Criteria
+## Sprint 4 Success Criteria
 
 - [ ] GitHub organization and repositories created
-- [ ] User input form with age, height, weight, blood pressure fields
-- [ ] Input validation working with error messages
-- [ ] Risk calculation API endpoint functional
 - [ ] At least one Node.js API per team member committed
 - [ ] All 9 stories completed by March 26
 
 ---
 
-## 📌 Notes
+## Notes
 
 - RC-012 to be split into 4 individual stories: RC-012a (Fernando), RC-012b (Nana), RC-012c (Teju), RC-012d (Leland)
 - Each team member will implement one unique API endpoint
-- Daily stand-ups at 9:30 AM in team channel
 - Final deliverables due by Sprint Review on March 26
 
----
 
-**Sprint 4 Start Date:** March 12, 2026  
-**Sprint 4 End Date:** March 26, 2026  
-**Review Meeting:** March 26, 2026 - 10:00 AM  
-**Retrospective:** March 26, 2026 - 11:00 AM
 
 ---
 
