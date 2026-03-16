@@ -14,28 +14,7 @@ permalink: /backlogs/product-backlog/
 | Hours per Member | 6 |
 | **Total Team Capacity** | **24 story points** (4 × 6 hours) |
 | Total Backlog SP | **35 points** (after removing Sprint 4 stories) |
-| **Stories > Capacity?** | **YES - 35 > 24** (for Sprint 5) |
-| Spike Percentage | 6/10 = 60% |
 
-### Breakdown
-- **Sprint 4 committed:** 9 stories (24 points) - *removed from this backlog*
-
-
-
-*Note: 1 story point = 1 hour effort.*
-
----
-
-
----
-
-## Issues:
-
-
-- **SMART criteria**: Some stories need more specificity (RC-006, RC-016)
-- **RC-012 needs splitting** into individual stories for each team member
-
----
 
 ## Remaining Product Backlog (For Future Sprints)
 
@@ -49,18 +28,6 @@ permalink: /backlogs/product-backlog/
 | RC-013 | As a developer, I want to configure local .env or config files for seamless local testing so that I can develop without environment conflicts. | 2 | 5 | N | Ready | -- |
 | RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 3 | N | Ready | -- |
 | RC-019 | As a user, I would like the application to run natively on my iPhone so that I can use it while driving. | 1 | 5 | N | Ready | -- |
-
----
-
-## Backlog Summary
-
-| **Category** | **Count** | **Story Points** |
-|--------------|-----------|------------------|
-| Moved to Sprint 4 | 9 stories | 24 SP |
-| Remaining in Product Backlog | 10 stories | 35 SP |
-| **Total Original Backlog** | **19 stories** | **59 SP** |
-
----
 
 
 

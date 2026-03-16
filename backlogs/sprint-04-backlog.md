@@ -42,17 +42,6 @@ permalink: /backlogs/sprint-04-backlog/
 
 
 
-## Team Workload Distribution
-
-| **Team Member** | **Role** | **Assigned Stories** | **Total SP** | **Focus Area** |
-|-----------------|----------|----------------------|--------------|----------------|
-| **Fernando** | Scrum Master | RC-001, RC-003 | 2 | Team coordination, Sprint facilitation |
-| **Nana** | Product Owner | RC-001, RC-002, RC-014 | 3 | Backlog management, architecture decisions |
-| **Teju** | Developer | RC-004, RC-007 | 6 | GitHub setup, user input form |
-| **Leland** | Developer | RC-008, RC-011 | 10 | Validation, risk calculation API |
-| **Team** | Collective | RC-012 | 3 | Individual API contributions |
-
----
 
 ##  Definition of Done
 
