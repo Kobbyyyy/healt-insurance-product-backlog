@@ -51,11 +51,9 @@ permalink: /backlogs/product-backlog/
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-006 | As a user, I want a clean and welcoming home screen with instructions so that I can quickly understand how to use the application. | 7 | 3 | N | Ready | -- |
-| RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 7 | 5 | Y | Ready | -- |
 | RC-015 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 3 | Y | Ready | -- |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | Ready | -- |
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 5 | 3 | N | Ready | -- |
-| RC-018 | As a developer, I want to remove all unnecessary code from the Node.js servers so that I can improve maintainability and performance. | 4 | 3 | N | Ready | -- |
 | RC-016 | As a user, I want a visually appealing application that utilizes Tailwind to style the interface, allowing me to enjoy a modern and visually pleasing experience. | 3 | 5 | N | Ready | -- |
 | RC-013 | As a developer, I want to configure local .env or config files for seamless local testing so that I can develop without environment conflicts. | 2 | 5 | N | Ready | -- |
 | RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 3 | N | Ready | -- |
@@ -73,12 +71,5 @@ permalink: /backlogs/product-backlog/
 
 ---
 
-## 🚀Way Forward:
-
-1. **Sprint 4 is in progress** with 9 stories moved to Sprint Backlog
-2. **Remaining 10 stories** ready for Sprint 5 planning
-3. **Split RC-012** into individual stories for each team member
-4. **Review spike flags** - reduce from 60% to <30%
-5. **SMART criteria** - refine RC-006 and RC-016 with specific details
 
 

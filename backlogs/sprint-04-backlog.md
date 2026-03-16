@@ -31,24 +31,16 @@ permalink: /backlogs/sprint-04-backlog/
 | RC-004 | As a developer, I want to create a GitHub organization and repos for clients and servers so that I can collaborate using centralized version control. | 9 | 2 | Y | In Progress | Teju |
 | RC-003 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 8 | 2 | N | In Progress | Fernando |
 | RC-002 | As a Product Owner, I want to manage the backlogs and focus on the Minimum Viable Product (MVP) and prioritize stories so that I can deliver value to users by the end of the sprint. | 8 | 2 | N | In Progress | Nana |
+| RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 7 | 5 | Y | Ready | Fernando|
 | RC-011 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 6 | Y | To Do | Leland |
 | RC-014 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | N | To Do | Nana |
 | RC-007 | As a user, I want to enter my age, height (in feet and inches), weight (lbs), blood pressure, and family history so that I can receive a personalized risk calculation. | 7 | 4 | N | To Do | Teju |
 | RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 4 | N | To Do | Leland |
 | RC-012 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 3 | Y | To Do | Team |
+| RC-018 | As a developer, I want to remove all unnecessary code from the Node.js servers so that I can improve maintainability and performance. | 4 | 3 | N | Ready | Nana|
 
----
 
-## Sprint Metrics
 
-| **Metric** | **Value** |
-|------------|-----------|
-| Total Stories Committed | 9 |
-| Total Story Points | 24 |
-| Team Capacity | 24 SP |
-| Utilization | 100% |
-
----
 
 ## Team Workload Distribution
 
@@ -76,38 +68,7 @@ For a story to be considered "Done" in Sprint 4:
 ---
 
 
-## Risks and Dependencies
 
-| **Risk** | **Mitigation** |
-|----------|----------------|
-| RC-011 (Risk API) is 6 points - largest story | Leland to start early, pair programming if needed |
-| RC-012 needs splitting into 4 stories | Team to split in first stand-up |
-| GitHub/Azure setup may have unknown issues | Teju to document findings for team |
-| 61% spikes in overall backlog | Team to review which spikes are truly needed |
-
----
-
-
-## Sprint 4 Success Criteria
-
-- [ ] GitHub organization and repositories created
-- [ ] At least one Node.js API per team member committed
-- [ ] All 9 stories completed by March 26
-
----
-
-## Notes
-
-- RC-012 to be split into 4 individual stories: RC-012a (Fernando), RC-012b (Nana), RC-012c (Teju), RC-012d (Leland)
-- Each team member will implement one unique API endpoint
-- Final deliverables due by Sprint Review on March 26
-
-
-
----
-
-**Last Updated:** March 12, 2026  
-**Updated By:** Nana, Product Owner
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
